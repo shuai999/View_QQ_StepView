@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <declare-styleable name="QQStepView">
+            <!--外圆及内圆颜色-->
+            <attr name="outerColor" format="color"/>
+            <attr name="innerColor" format="color"/>
+            <!--圆弧宽度-->
+            <attr name="borderWidth" format="dimension"/>
+            <!--文字大小和文字颜色-->
+            <attr name="stepTextSize" format="dimension"/>
+            <attr name="stepTextColor" format="color"/>
+
+        </declare-styleable>
+</resources>
